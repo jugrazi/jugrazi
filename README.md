@@ -1,8 +1,7 @@
 - 👩‍💻 Olá,me chamo Julia! </>
-- 💻 Programadora Iniciante
-- ✔️ Certificado do Evento Imersão Dev da Alura 
-- ☕ Café
-- 🎮 Amante de Jogos
-- 🤓 JS,CSS,HTML
-- 📝 Ainda embarcando no mundo Back-End
+- 🎓Cursando Analise e Desenvolvimento de Sistemas.
+- 💻 Programadora Iniciante.
+- ✔️ Certificado do Evento Imersão Dev da Alura.
+- ☕ Adoro um bom Café!
+- 🎮 Amante de Jogos.
 - 💕 Tento ajudar como posso, e aceito toda ajuda. 💕
