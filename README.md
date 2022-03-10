@@ -17,6 +17,7 @@
   <a href="https://instagram.com/jubs.grazi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jujumeko" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/júlia-graziely-b6331b234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.behance.net/jliagraziely" target="_blank"><img src="https://img.shields.io/badge/-Behance-472A43?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   
   <div>
   <img align="right" alt="Rafa-pic" height="470" style="border-radius:50px;" src= "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Murakami_Shiina_Holding_Computer_C_Programming_Language.png" 
