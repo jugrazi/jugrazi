@@ -20,3 +20,6 @@
   <div>
   <img align="right" alt="Rafa-pic" height="470" style="border-radius:50px;" src= "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Murakami_Shiina_Holding_Computer_C_Programming_Language.png" 
        </div>
+  
+![Snake animation](https://github.com/jugrazi/jugrazi/blob/output/github-contribution-grid-snake.svg)
+ 
