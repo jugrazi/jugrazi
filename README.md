@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/jugrazi">
  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=jugrazi&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugrazi&layout=compact&langs_count=7&theme=jolly"/>
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugrazi&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   <div style="display: inline_block"><br>
   
@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/R.2d6e38c665989d216c48362550c15537?rik=mCvG5jbsFrQCcQ&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-drinking-gif-9.gif&ehk=4qSASsnh0fQ0XxCmELB8n1hgx%2bxg5jMNVKs%2fyIWzRzM%3d&risl=&pid=ImgRaw&r=0">
+  <img align="right" alt="ju-pic" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/R.2d6e38c665989d216c48362550c15537?rik=mCvG5jbsFrQCcQ&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-drinking-gif-9.gif&ehk=4qSASsnh0fQ0XxCmELB8n1hgx%2bxg5jMNVKs%2fyIWzRzM%3d&risl=&pid=ImgRaw&r=0">
 </div>
   
   ##
