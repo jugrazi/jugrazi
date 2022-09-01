@@ -13,6 +13,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   
   <img align="right" alt="ju-pic" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/R.2d6e38c665989d216c48362550c15537?rik=mCvG5jbsFrQCcQ&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-drinking-gif-9.gif&ehk=4qSASsnh0fQ0XxCmELB8n1hgx%2bxg5jMNVKs%2fyIWzRzM%3d&risl=&pid=ImgRaw&r=0">
 </div>
