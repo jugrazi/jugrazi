@@ -1,4 +1,6 @@
-## Oiii me chamo Julia Graziely, Sou Programadora e Designer! ☕
+<p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=fbcce7&lines=Olá,+Sou+Desenvolvedora+e+Designer!☕"(https://git.io/typing-svg)>
+ </p>
 
 <div align="center">
   <a href="https://github.com/jugrazi">
