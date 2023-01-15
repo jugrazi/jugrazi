@@ -17,7 +17,7 @@
   <img align="center" alt="ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ju-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">    
+  <img align="center" alt="ju-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg">    
   
   <img align="right" alt="ju-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b76119d0e6eb2cfd65f2eebb757d4345d49bc98a77ccf&rid=giphy.gif&ct=g">
 </div>
